@@ -66,7 +66,7 @@ pip install -U cookiecutter
 then go to a directory where you want to create your project and run:
 
 ```bash
-cookiecutter gh:TezRomacH/python-package-template --checkout v1.1.1
+cookiecutter gh:MrBungle-Codes/python-package-template --checkout v1.1.1
 ```
 
 ### Input variables
